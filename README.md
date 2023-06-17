@@ -20,7 +20,7 @@ Repositório destinado aos conteúdos abordados durante o treinamento oferecido 
 
 **14/06 - Padrões web – Html, Css, Javascript**
 - Nesta aula foi ensinado a sintaxe básica do **HTML**, lógica de programação com **Javascript** e estilização com **CSS**.
-- Foi desenvolvido junto ao professor @Romulo uma página em HTML que faz a validação de CPF, utilizando o Javascript na implementação da lógica e a estilização com CSS.
+- Foi desenvolvido junto ao professor [@Romulo](https://github.com/RomuloLousada "Romulo") uma página em HTML que faz a validação de CPF, utilizando o Javascript na implementação da lógica e a estilização com CSS.
 - Você pode verificar o código do projeto clicando na imagem abaixo:
 
 <a href="https://github.com/rafhaella/treinamento_estagio_teknisa/tree/main/aula-03/validacao-cpf"><img src="https://i.ibb.co/ZzgMxb9/Captura-de-tela-2023-06-16-184553.png" border="0"></a>
