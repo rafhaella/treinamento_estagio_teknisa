@@ -9,6 +9,8 @@ Repositório destinado aos conteúdos abordados durante o treinamento oferecido 
 
 **12/06 -  SCRUM e Boas práticas na programação**
 - Durante a aula foi abordado os seguintes temas: **metodologias ágeis, formas de organizar os códigos e como inserir comentários relevantes.**
+  - [Scrum](https://github.com/rafhaella/treinamento_estagio_teknisa/blob/main/aula-01/Scrum.pdf "Scrum")
+  - [Boas Práticas de Programação](https://github.com/rafhaella/treinamento_estagio_teknisa/blob/main/aula-01/Boas_Praticas_Programacao.pdf "Boas Práticas de Programação")
 
 **13/06 - Git**
 - Como usar a ferramenta **Git** na utilização de versionamento de códigos.
