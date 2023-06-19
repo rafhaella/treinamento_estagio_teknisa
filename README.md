@@ -26,5 +26,7 @@ Repositório destinado aos conteúdos abordados durante o treinamento oferecido 
 <a href="https://github.com/rafhaella/treinamento_estagio_teknisa/tree/main/aula-03/validacao-cpf"><img src="https://i.ibb.co/ZzgMxb9/Captura-de-tela-2023-06-16-184553.png" border="0"></a>
 
 **15/06 - Programação web com NODE.JS (PWN)**
+- Confira o código abaixo:
+ - - [Crud With Nodejs](https://github.com/rafhaella/treinamento_estagio_teknisa/tree/main/aula-04/crud_with_nodejs/src "Crud With Nodejs")
 
 
